@@ -10,6 +10,8 @@ Computer Engineering student based in **Tbilisi, Georgia**.
 I'm building a foundation in **C and low-level systems**, with the goal of
 working in **embedded / firmware security** and **reverse engineering**.
 
+> **Now:** Phase 1 of my [roadmap](https://github.com/LevXddd/roadmap) — C fundamentals with *Modern C*.
+
 ## 🎯 Focus
 
 - Writing clear, correct C and understanding what it compiles to
@@ -20,6 +22,7 @@ working in **embedded / firmware security** and **reverse engineering**.
 
 - **C** — working through *Modern C* (Jens Gustedt)
 - **Python** — finishing Harvard's **CS50P**
+- **Reversing** — reading the disassembly of everything I write
 
 ## 🛠️ Tech I use
 
@@ -28,16 +31,28 @@ working in **embedded / firmware security** and **reverse engineering**.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-E21B1B?style=flat&logoColor=white)
 
 ## 🔧 Projects
 
-<!-- Replace these placeholders as projects become real. -->
-
 | Project | Description |
 |---------|-------------|
-| [c-playground](https://github.com/LevXddd/c-playground) | My C practice programs while learning the language |
+| [c-playground](https://github.com/LevXddd/c-playground) | C practice programs, each one also disassembled and checked for mitigations |
+| [writeups](https://github.com/LevXddd/writeups) | Reverse-engineering & CTF writeups (crackmes.one, picoCTF) |
 | [roadmap](https://github.com/LevXddd/roadmap) | Public roadmap: C → reverse engineering → firmware security |
-| _coming soon_ | _…_ |
+
+## 📊 Stats
+
+<p>
+  <img height="160" alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=LevXddd&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="160" alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevXddd&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<img alt="GitHub streak"
+     src="https://streak-stats.demolab.com?user=LevXddd&hide_border=true&theme=transparent" />
 
 ## 📫 Contact
 

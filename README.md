@@ -1,62 +1,30 @@
-<!--
-  Profile README for github.com/LevXddd
-  This file lives in the special repo LevXddd/LevXddd and is shown on the profile page.
--->
+### Lev
 
-# Hi, I'm Lev 👋
+Computer Engineering student in Tbilisi, Georgia.
 
-Computer Engineering student based in **Tbilisi, Georgia**.
+I'm learning how software works close to the hardware: C, memory, what the
+compiler actually turns my code into, and eventually how to take apart real
+firmware. The long-term goal is embedded and firmware security.
 
-I'm building a foundation in **C and low-level systems**, with the goal of
-working in **embedded / firmware security** and **reverse engineering**.
+**Right now**
 
-> **Now:** Phase 1 of my [roadmap](https://github.com/LevXddd/roadmap) — C fundamentals with *Modern C*.
+- Building [fwtriage](https://github.com/LevXddd/fwtriage), a small Python tool for a first look at
+  binary and firmware files (file type, SHA-256, strings, entropy). It's also my CS50P final project.
+- Working through *Modern C* by Jens Gustedt in [c-playground](https://github.com/LevXddd/c-playground)
+- Starting on crackmes and picoCTF, notes go to [writeups](https://github.com/LevXddd/writeups)
 
-## 🎯 Focus
+The full plan is in [roadmap](https://github.com/LevXddd/roadmap). I tick things off as I actually finish them.
 
-- Writing clear, correct C and understanding what it compiles to
-- Learning how binaries work: memory, the stack, calling conventions, ELF
-- Heading toward embedded systems, firmware analysis, and hardware security
+**Tools I use day to day**
 
-## 📚 Currently learning
+C · C++ · Python · Linux (CachyOS) · Git · GDB · Make
 
-- **C** — working through *Modern C* (Jens Gustedt)
-- **Python** — finishing Harvard's **CS50P**
-- **Reversing** — reading the disassembly of everything I write
+**Earlier stuff**
 
-## 🛠️ Tech I use
+I started with C++ in [Endurance](https://github.com/LevXddd/Endurance), and I also built
+a small Python pipeline that makes short C++ tutorial videos ([shorts](https://github.com/LevXddd/shorts)).
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-E21B1B?style=flat&logoColor=white)
+---
 
-## 🔧 Projects
-
-| Project | Description |
-|---------|-------------|
-| [c-playground](https://github.com/LevXddd/c-playground) | C practice programs, each one also disassembled and checked for mitigations |
-| [writeups](https://github.com/LevXddd/writeups) | Reverse-engineering & CTF writeups (crackmes.one, picoCTF) |
-| [roadmap](https://github.com/LevXddd/roadmap) | Public roadmap: C → reverse engineering → firmware security |
-
-## 📊 Stats
-
-<p>
-  <img height="160" alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=LevXddd&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevXddd&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<img alt="GitHub streak"
-     src="https://streak-stats.demolab.com?user=LevXddd&hide_border=true&theme=transparent" />
-
-## 📫 Contact
-
-<!-- Uncomment and fill in when ready:
-- LinkedIn: [Lev](https://www.linkedin.com/in/YOUR-HANDLE)
--->
-- GitHub: [@LevXddd](https://github.com/LevXddd)
+I'm still early in all of this, so the repos show the process, not a finished portfolio.
+If you're into reverse engineering or embedded stuff too, feel free to reach out.
